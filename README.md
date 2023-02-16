@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RikutoOgaki&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/RikutoOgaki/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RikutoOgaki)](https://github.com/RikutoOgaki/github-readme-stats)
