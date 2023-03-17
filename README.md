@@ -4,6 +4,7 @@ I am looking for a design engineer.
 
 Currently studying as an intern
 
+
 My PortFolio / https://first-portfolio-rikutoogaki.vercel.app/
 
 My Twitter / https://twitter.com/Rikuto_Ogaki
