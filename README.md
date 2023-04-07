@@ -1,7 +1,5 @@
 # Hi My name is RikutoOgaki 👋
 
-Currently studying as an intern
-
 
 My PortFolio / https://first-portfolio-rikutoogaki.vercel.app/
 
