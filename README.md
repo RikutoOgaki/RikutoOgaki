@@ -5,7 +5,7 @@ My PortFolio / https://first-portfolio-rikutoogaki.vercel.app/
 
 | My statas | Link |
 |-----------|------|
-| ProtFolio | Link(https://first-portfolio-rikutoogaki.vercel.app/)|
+| ProtFolio | Link[https://first-portfolio-rikutoogaki.vercel.app/]|
 | Instagram | Link |
 
 
