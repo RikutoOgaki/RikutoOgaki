@@ -8,6 +8,7 @@
 | ProtFolio | [Rikuto Ogaki PortFolio](https://first-portfolio-rikutoogaki.vercel.app/)|
 | Instagram | [rikuto_0531](https://www.instagram.com/rikut0_0531/) |
 | Twitter | [RikutoOgaki](https://twitter.com/Rikuto_Ogaki) |
+|Easy data| [Timer](timer-eight-eosin.vercel.app) |
 
 
 
