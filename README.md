@@ -1,6 +1,8 @@
 Hi My name is RikutoOgaki 👋
 I am looking for a front end developer
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=RikutoOgaki)](https://github.com/ryo-ma/github-profile-trophy)
+
 My Favorite Music TUYU
 ![tsuyu_mv_Image Enhancer](https://github.com/RikutoOgaki/RikutoOgaki/assets/114480030/3238e9e3-8785-467a-85ef-34ebf0edddd8)
 
