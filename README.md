@@ -12,8 +12,8 @@ My Favorite Music TUYU
 
 | My stats | Link |
 |-----------|------|
-| My Github |[![モーリー's GitHub stats](https://github-readme-stats.vercel.app/api?username=RikutoOgaki&theme=dark&show__icons=true)](https://github.com/RikutoOgaki/github-readme-stats) |
-| My Languages | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RikutoOgaki&theme=dark&show__icons=true&layout=compact)](https://github.com/RikutoOgaki/github-readme-stats) |
+| My Github |[![モーリー's GitHub stats](https://github-readme-stats.vercel.app/api?username=RikutoOgaki&theme=midnight-purple&show__icons=true)](https://github.com/RikutoOgaki/github-readme-stats) |
+| My Languages | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RikutoOgaki&theme=midnight-purple&show__icons=true&layout=compact)](https://github.com/RikutoOgaki/github-readme-stats) |
 | Instagram | [rikuto_0531](https://www.instagram.com/rikut0_0531/) |
 | Twitter | [RikutoOgaki](https://twitter.com/Rikuto_Ogaki) |
 
