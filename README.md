@@ -5,7 +5,7 @@ My Favorite Music TUYU
 ![tsuyu_mv_Image Enhancer](https://github.com/RikutoOgaki/RikutoOgaki/assets/114480030/3238e9e3-8785-467a-85ef-34ebf0edddd8)
 
 [![モーリー's GitHub stats](https://github-readme-stats.vercel.app/api?username=RikutoOgaki&theme=midnight-purple&show__icons=true)](https://github.com/RikutoOgaki/github-readme-stats) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RikutoOgaki&theme=midnight-purple&show__icons=true&layout=compact)](https://github.com/RikutoOgaki/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RikutoOgaki&theme=midnight-purple&show__icons=true)](https://github.com/RikutoOgaki/github-readme-stats) 
 
 [![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RikutoOgaki&theme=jolly)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
