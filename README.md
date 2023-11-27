@@ -18,5 +18,5 @@ My Favorite Music TUYU
 
 | My stats | Link |
 |-----------|------|
-| Twitter | [RikutoOgaki](https://twitter.com/Rikuto_Ogaki) |
+| X | [RikutoOgaki](https://twitter.com/Rikuto_Ogaki) |
 | Instagram | [rikuto_0531](https://www.instagram.com/rikut0_0531/) |
