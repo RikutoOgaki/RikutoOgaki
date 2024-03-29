@@ -5,10 +5,16 @@ My Favorite Music TUYU
 ![tsuyu_mv_Image Enhancer](https://github.com/RikutoOgaki/RikutoOgaki/assets/114480030/3238e9e3-8785-467a-85ef-34ebf0edddd8)
 
 <h2 align="left">My Skill</h2>
-<p>Main Skill</p>
+<h3>Main Skill</h3>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,scss,javascript,typescript,nodejs,nextjs,vite" />
+  </a>
+</p>
+<h3>Study Skill</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,php,mysql,pg,flutter" />
   </a>
 </p>
 
