@@ -8,19 +8,19 @@ My Favorite Music TUYU
 <h3>Main Skill</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,scss,javascript,typescript,nodejs,nextjs,vite" />
+    <img src="https://skillicons.dev/icons?i=html,css,scss,javascript,typescript,nodejs,react,nextjs,vite,npm" />
   </a>
 </p>
 <h3>Study Skill</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,php,mysql,postgresql,flutter,prisma" />
+    <img src="https://skillicons.dev/icons?i=python,php,mysql,postgresql,flutter,prisma,docker" />
   </a>
 </p>
 <h3>Use Tool</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,figma,ai,ps,pr,discord" />
+    <img src="https://skillicons.dev/icons?i=vscode,figma,ai,ps,pr,discord,notion" />
   </a>
 </p>
 
