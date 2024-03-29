@@ -17,6 +17,12 @@ My Favorite Music TUYU
     <img src="https://skillicons.dev/icons?i=python,php,mysql,postgresql,flutter,prisma" />
   </a>
 </p>
+<h3>Use Tool</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,figma,ai,ps,pr" />
+  </a>
+</p>
 
 
 [![モーリー's GitHub stats](https://github-readme-stats.vercel.app/api?username=RikutoOgaki&theme=midnight-purple&show__icons=true)](https://github.com/RikutoOgaki/github-readme-stats) 
