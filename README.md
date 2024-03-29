@@ -20,7 +20,7 @@ My Favorite Music TUYU
 <h3>Use Tool</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,figma,ai,ps,pr" />
+    <img src="https://skillicons.dev/icons?i=vscode,figma,ai,ps,pr,discord" />
   </a>
 </p>
 
