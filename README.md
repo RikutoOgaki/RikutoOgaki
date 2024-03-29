@@ -4,6 +4,15 @@
 My Favorite Music TUYU
 ![tsuyu_mv_Image Enhancer](https://github.com/RikutoOgaki/RikutoOgaki/assets/114480030/3238e9e3-8785-467a-85ef-34ebf0edddd8)
 
+<h2 align="left">My Skill</h2>
+<p>Main Skill</p>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,scss,javascript,typescript" />
+  </a>
+</p>
+
+
 [![モーリー's GitHub stats](https://github-readme-stats.vercel.app/api?username=RikutoOgaki&theme=midnight-purple&show__icons=true)](https://github.com/RikutoOgaki/github-readme-stats) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RikutoOgaki&theme=midnight-purple&show__icons=true&layout=compact)](https://github.com/RikutoOgaki/github-readme-stats) 
 
