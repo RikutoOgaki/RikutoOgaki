@@ -14,7 +14,7 @@ My Favorite Music TUYU
 <h3>Study Skill</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,php,mysql,pg,flutter" />
+    <img src="https://skillicons.dev/icons?i=python,php,mysql,postgresql,flutter" />
   </a>
 </p>
 
