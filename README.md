@@ -8,7 +8,7 @@ My Favorite Music TUYU
 <h3>Main Skill</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,scss,javascript,typescript,react,nextjs,vite,npm" />
+    <img src="https://skillicons.dev/icons?i=html,css,scss,javascript,typescript,react,nextjs,vite" />
   </a>
 </p>
 <h3>Study Skill</h3>
