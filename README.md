@@ -32,10 +32,3 @@ My Favorite Music TUYU
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=RikutoOgaki&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-
-| My stats | Link |
-|-----------|------|
-| X | [RikutoOgaki](https://twitter.com/Rikuto_Ogaki) |
-| Instagram | [rikuto_0531](https://www.instagram.com/rikut0_0531/) |
