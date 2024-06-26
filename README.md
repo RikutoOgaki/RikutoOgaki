@@ -3,6 +3,8 @@
 
 My Favorite Music TUYU
 ![tsuyu_mv_Image Enhancer](https://github.com/RikutoOgaki/RikutoOgaki/assets/114480030/3238e9e3-8785-467a-85ef-34ebf0edddd8)
+[](https://github.com/RikutoOgaki/RikutoOgaki/assets/114480030/3bc0ad77-6250-4333-b060-a58ca6b61bdc)
+
 
 <h2 align="left">My Skill</h2>
 <h3>Main Skill</h3>
