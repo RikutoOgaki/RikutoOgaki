@@ -1,9 +1,6 @@
 <h1 align="left">Hi 👋, I'm RIKUTO OGAKI</h1>
 <h3 align="left">I am looking for a front end developer</h3>
 
-![](https://github.com/RikutoOgaki/RikutoOgaki/assets/114480030/3bc0ad77-6250-4333-b060-a58ca6b61bdc)
-
-
 <h2 align="left">My Skill</h2>
 <h3>Main Skill</h3>
 <p align="left">
