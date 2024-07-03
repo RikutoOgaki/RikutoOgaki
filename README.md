@@ -22,7 +22,7 @@
 </p>
 
 
-[![モーリー's GitHub stats](https://github-readme-stats.vercel.app/api?username=RikutoOgaki&title_color="9A0000"&bg_color="262626"&text_color="9A0000"&icon_color="9A0000"__icons=true)](https://github.com/RikutoOgaki/github-readme-stats) 
+[![モーリー's GitHub stats](https://github-readme-stats.vercel.app/api?username=RikutoOgaki&title_color="#dc143c"&bg_color="#262626"&text_color="#9A0000"&icon_color="#9A0000"__icons=true)](https://github.com/RikutoOgaki/github-readme-stats) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RikutoOgaki&theme=shadow_red&show__icons=true&layout=compact)](https://github.com/RikutoOgaki/github-readme-stats) 
 
 
