@@ -24,7 +24,7 @@
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RikutoOgaki&show_icons=true&theme=radical&count_private=true&hide=prs,issues&bg_color=262626&title_color=#dc143c&text_color=#dc143c)](https://github.com/RikutoOgaki/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RikutoOgaki&show_icons=true&private=true&hide=prs,issues&bg_color=262626&title_color=#dc143c&text_color=#dc143c)](https://github.com/RikutoOgaki/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RikutoOgaki&theme=shadow_red&show__icons=true&layout=compact)](https://github.com/RikutoOgaki/github-readme-stats) 
 
