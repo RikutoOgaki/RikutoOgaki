@@ -28,4 +28,4 @@
 [![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RikutoOgaki&theme=shadow_red)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=RikutoOgaki&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=RikutoOgaki&theme=shadow_red)](https://github.com/ryo-ma/github-profile-trophy)
