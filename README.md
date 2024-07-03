@@ -22,10 +22,10 @@
 </p>
 
 
-[![モーリー's GitHub stats](https://github-readme-stats.vercel.app/api?username=RikutoOgaki&theme=onedark&show__icons=true)](https://github.com/RikutoOgaki/github-readme-stats) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RikutoOgaki&theme=onedark&show__icons=true&layout=compact)](https://github.com/RikutoOgaki/github-readme-stats) 
+[![モーリー's GitHub stats](https://github-readme-stats.vercel.app/api?username=RikutoOgaki&theme=shadow_red&show__icons=true)](https://github.com/RikutoOgaki/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RikutoOgaki&theme=shadow_red&show__icons=true&layout=compact)](https://github.com/RikutoOgaki/github-readme-stats) 
 
-[![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RikutoOgaki&theme=jolly)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RikutoOgaki&theme=shadow_red)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=RikutoOgaki&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
