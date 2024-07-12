@@ -24,7 +24,7 @@
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RikutoOgaki&thema=monokai&show_icons=true)](https://github.com/RikutoOgaki/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RikutoOgaki&theme=monokai&show_icons=true)](https://github.com/RikutoOgaki/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RikutoOgaki&theme=monokai&show__icons=true&layout=compact)](https://github.com/RikutoOgaki/github-readme-stats) 
 
