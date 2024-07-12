@@ -25,8 +25,8 @@
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RikutoOgaki&theme=monokai&show_icons=true)](https://github.com/RikutoOgaki/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RikutoOgaki&theme=monokai&show__icons=true&layout=compact)](https://github.com/RikutoOgaki/github-readme-stats) 
+
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=RikutoOgaki&theme=dark_lover)](https://github.com/ryo-ma/github-profile-trophy)
