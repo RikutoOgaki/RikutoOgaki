@@ -24,9 +24,9 @@
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RikutoOgaki&show_icons=true&bg_color=262626&title_color=#dc143c&text_color=#dc143c)](https://github.com/RikutoOgaki/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RikutoOgaki&thema=monokai&show_icons=true)](https://github.com/RikutoOgaki/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RikutoOgaki&theme=shadow_red&show__icons=true&layout=compact)](https://github.com/RikutoOgaki/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RikutoOgaki&theme=monokai&show__icons=true&layout=compact)](https://github.com/RikutoOgaki/github-readme-stats) 
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=RikutoOgaki&theme=dark_lover)](https://github.com/ryo-ma/github-profile-trophy)
