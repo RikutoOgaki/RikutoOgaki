@@ -11,7 +11,7 @@
 <h3>Study Skill</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,php,mysql,postgresql,flutter,prisma,docker" />
+    <img src="https://skillicons.dev/icons?i=vue,python,php,mysql,postgresql,flutter,prisma,docker" />
   </a>
 </p>
 <h3>Use Tool</h3>
