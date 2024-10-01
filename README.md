@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm RIKUTO OGAKI</h1>
 <h3 align="left">I am looking for a front end developer</h3>
 
-![アルセーヌ壁紙](https://github.com/user-attachments/assets/5d70c198-71b4-4fdf-ac1c-32325a45bd55)
+![Pin page_Image Enhancer](https://github.com/user-attachments/assets/9edec386-395d-4366-bf08-7f6a6e05e6b5)
 
 <h2 align="left">My Skill</h2>
 <h3>Main Skill</h3>
