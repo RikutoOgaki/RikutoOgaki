@@ -13,7 +13,7 @@
 <h3>Study Skill</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vue,python,php,mysql,postgresql,flutter,prisma,docker,vite" />
+    <img src="https://skillicons.dev/icons?i=vue,python,php,mysql,postgresql,flutter,prisma,docker,vite,swift" />
   </a>
 </p>
 <h3>Use Tool</h3>
